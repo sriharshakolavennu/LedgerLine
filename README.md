@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # LedgerLine
-=======
+====================
 # LedgerLine Proof Desk
 
 Money movement with a ledger you can prove. Move money so the books always balance and the same request never pays twice.
@@ -86,5 +86,4 @@ mvnw.cmd test
 | Signup, history, new tests | Written in a second pass. Frontend bundles with esbuild. Backend **not compiled or run** and `MoneyFlowTest` **not yet run**; record real results after `mvnw.cmd test` |
 | Not built | login and signup rate limiting, email verification, springdoc/OpenAPI docs, deployment, refresh tokens, role re-check against DB on each request |
 
-Update this table with what you actually verify. `docs/THREATS.md` statuses must match it.
->>>>>>> fe8710b (Initial commit)
+
